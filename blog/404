@@ -279,6 +279,6 @@ p img {
     max-height: 80px;
     }
 </style>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"706c89568e2e406c","version":"2021.12.0","r":1,"token":"2b020b65cccb453f8a983b0f5847d8a4","si":100}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"706fc25ea9728868","version":"2021.12.0","r":1,"token":"2b020b65cccb453f8a983b0f5847d8a4","si":100}' crossorigin="anonymous"></script>
 </body>
 </html>
